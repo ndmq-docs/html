@@ -12,7 +12,7 @@ const config = {
   url: "https://github.com", // Your website URL
   baseUrl: "/html/",
   projectName: "html",
-  organizationName: "nmc-docs",
+  organizationName: "ndmq-docs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: {
