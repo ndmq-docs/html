@@ -9,7 +9,7 @@ const config = {
   title: "HTML",
   tagline: "Dinosaurs are cool",
   favicon: "img/logo.svg",
-  url: "https://ndmq-docs.github.io", // Your website URL
+  url: "https://github.com", // Your website URL
   baseUrl: "/html/",
   projectName: "html",
   organizationName: "ndmq-docs",
