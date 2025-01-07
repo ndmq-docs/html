@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 11
 ---
 
 # `<ul>`
@@ -14,5 +14,6 @@ sidebar_position: 8
   <li>Milk</li>
 </ul>  
 ```
-Ví dụ:
+- Ví dụ:
+
 ![ul](image/table-tags/ul.png)
